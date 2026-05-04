@@ -1,6 +1,6 @@
-{323} Attacks!
-{323} Defends!
-{323} Psyches Up!
+Attack!
+Defend!
+Psyche Up!
 High Tension
 Super High Tension
 Flee
@@ -201,12 +201,12 @@ Mercurial Thrust
 Take this!
 Wicked Waltz
 ダモーレ斬り
-{323} is still confused!
-{323} is still confused!
-{323} cowers in fear!
-{323} is assessing the situation.
-{323} stares blankly.
-{323} has no idea what to do!
+Still confused!
+Still confused!
+Cowering in fear!
+Assessing the situation.
+Staring blankly.
+Has no idea what to do!
 せいしんとういつ
 GLOBLITERATE ALL INTRUDERS!
 The rockbomb's acting a bit oddly!
