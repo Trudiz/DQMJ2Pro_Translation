@@ -1,0 +1,443 @@
+
+Spells and Abilities
+Items
+Equipment
+Switch Monsters
+Change Tactics
+Skill Allocation
+Heal All
+Save
+Scouting Skills
+Scout's Handbook
+Monster Mender
+Tag Mode
+Zoom
+Zip
+Nose for Treasure
+Vanish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Status
+Lv
+HP
+MP
+Att.
+Def.
+Agil.
+Wis.
+Rank
+Size
+Exp
+Max. HP
+Max. MP
+{224}
+{225}
+Type
+Traits:
+Resistances
+Skills:
+E
+None
+Monsters
+New Monster Status
+Next Lv
+あと
+Family
+Sort
+Info
+Attrb.
+Yes
+No
+Skills:
+Discard
+Play Time:
+OK
+Cancel
+Monster A
+Monster B
+Confirm
+Points
+You need {322} points to learn{315}{324}.
+{31c}1Skill boosted!{31c}{00}{315}{30b}T
+Points
+Strongest Weapon
+MASTER
+MP Needed
+MASTER!
+Can't use
+Amount
+Use
+Learnt
+Can learn
+Points
+→
+Switch
+Continue
+Cancel
+End
+Save
+End the Adventure
+パーティランク
+
+
+→
+-
+Substitutes
+Your offer:
+You will receive:
+Team {322}
+Standard Battle
+None
+Please name the hero.
+Please name this {30b}{00}.
+Change {30b}{00}'s name.
+Please name your team.
+Continue
+New Game
+DS Wireless Play
+Nintendo Wi-Fi Connection
+Profile Settings
+Friend Roster
+Location:
+Load
+{238} Team
+{239} Substitutes
+{23a} Monster Pen
+OK
+Cancel
+Dragon Quest Monsters: Joker 2 Professional
+No Data
+You have {322}
+etc.
+Unknown
+Monsters with this skill:
+Other
+Habitat etc.
+None
+None
+Possessed by wild monsters.
+Equipped
+☆
+☆☆
+☆☆☆
+☆☆☆☆
+☆☆☆☆☆
+☆☆☆☆☆☆
+☆☆☆☆☆☆☆
+☆PROFESSIONAL☆
+Status
+Attack {322}
+Defence {322}
+Agility {322}
+Wisdom {322}
+Insulatle {322}
+Poisoned
+Offended
+Tension {322}
+Paralysed
+Asleep
+Confused
+Tongue Lashed
+Dancing
+Shocked
+Shocked
+Fizzled
+Dance Banned
+Gobstopped
+Inaccurate
+Inaccurate
+Inaccurate
+Resist. Down
+Resist. Down
+Critical Miss
+Bounce
+Deep Breath
+Brake Wind
+Mist Me
+Resistance Up
+Reheal
+Artful Dodger
+Clang
+Counter
+Inactive
+Amor Seco
+Salvation
+Blowback
+
+Prezinged
+Abiliterated
+Blade Blunted
+Aha-ed
+Selflessness
+Tacticlamped
+Dead
+Malhazed
+Disordered
+斬撃よそく
+体技よそく
+呪文よそく
+息よそく
+踊りよそく
+ブレイク封じ
+みちづれのワルツ
+せいしんとういつ
+冥界の霧
+チェイン
+みがわり封じ
+ゼロのしょうげき
+
+
+Envenomated
+None
+Place your new monster.
+
+OK
+Cancel
+Info
+
+
+
+
+
+F
+E
+D
+C
+B
+A
+S
+SS
+??
+むさべつ
+RANK
+F-D
+C-A
+S・SS
+{321}{30b}{00} has equipped {328}!
+This can be used {322} more times!{315}Use now?
+{321}{30f}'s team recover HP!
+No one in {30f}'s team can use healing magic.
+{321}{30f}'s team already have maximum HP!
+{321}{30f}'s team fully recover HP and MP!
+{321}{30f}'s team already have maximum HP and MP!
+This can't be used until {30f} returns to the Albatross.
+Now saving...{315}Do not turn power OFF.
+Save completed!
+Returning to the title screen.
+{321}{30b}{00} learns{315}{31c}1{30b}T{31c}{00}!
+{321}{30b}{00}'s {30b}z becomes {31c}1{30b}T{31c}{00}!
+{321}{30b}{00} already knows {31c}T{30b}T{31c}{00}.
+{321}{30b}{00} already knows {31c}T{30b}z{31c}{00}.
+
+
+This can't be used now.
+{321}{30b}{00} doesn't have any spells or abilities that can be used outside battle.
+
+Insufficient MP!
+
+
+
+But {30b}{00} could not be revived.
+
+
+Sorted by family!
+Sorted by level!
+Sorted by rank!
+Now loading...{315}Do not turn power OFF.
+Data loaded successfully!
+The save data could not be accessed. Please turn off the power and reinsert the DS Game Card.
+Adventure log already exists.{315}Saving will overwrite the current adventure log.
+There are still {322} items hidden in this area.
+Your team may contain unauthorised{315}monster data.{315}Please reorganise your team.
+There are no items hidden in this area.
+The adventure log is corrupted and has{315}been deleted.{315}Press the A Button to return to the{315}title screen.
+The save data could not be accessed. Please turn off the power and reinsert the DS Game Card.
+
+You cannot save your game at the moment.
+You cannot engage in Tag Mode Battles at the moment.
+You cannot remove this monster from the monster pen {23a} at the moment.
+You cannot create this monster at the moment.
+You cannot add this monster to your team at the moment.
+
+
+
+Sorted from smallest to largest!
+セーブデータが　こわれています。{315}ひとつ前にもどる　かのうせいがありますが、{315}ふっきゅうを　試みますか?
+セーブデータを　さくじょすることになりますが{315}ほんとうに　よろしいですか?
+こわれたセーブデータを　さくじょしました。{315}タイトルがめんに　もどります。{315}Aボタンを　おしてください。
+セーブデータを　ふっきゅうしています……。
+ざんねんですが　セーブデータは{315}ふっきゅうできませんでした。
+セーブデータの　ふっきゅうに{315}成功しました!
+このモンスターはRANKが高いため{315}交換を行うことが　できません。
+このモンスターは{315}PROFESSIONALモンスターのため{315}交換を行うことが　できません。
+わかれるモンスターを{315}せんたくしてください。
+{30b}{00}と　わかれますか?
+わかれたモンスターとは　にどと会えませんが{315}よろしいですか?
+このモンスターを交換するなんて　とんでもない!
+
+
+
+Spells and Abilities
+Items
+Equipment
+Switch Monsters
+Change Tactics
+Skill Allocation
+Heal All
+Save
+Scouting Skills
+Scout's Handbook
+Monster Mender
+Tag Mode Battles
+View information about the team.
+End skill point allocation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Under construction...
+Travel to any previously-visited area.
+Use in an area with an opened Zip Portal to travel straight there.
+Use to reveal how many items are nearby.
+Evade enemies by vanishing into thin air.
+
+
+
+
+
+????????
+{239} Select substitutes to{315}accompany active team.
+
+
+
+
+
+{238} Select monsters to{315}add to active team.
+{239} Select substitutes to{315}accompany active team.
+{23a} Select monsters{315}to send to storage.
+
+
+Equip the most powerful weapon available.
+End weapon selection.
+Form a team by selecting up to 3 monsters.
+Organise substitutes to take with you on your adventure.
+Organise monsters to be sent to the{315}monster pen.
+Use the current setup.
+Cancel changes and revert to the original setup.
+Return to the previous screen.
+
+
+
+
+
+
+{321}{30b}{00} obtains {322} skill points!
+{321}{30b}{00}'s {30b}T increases by {322} points!
+
+
+
+There should be a {30b}{00} monster in the next battle.
+{321}{30b}{00} learns{315}{30b}T!
+{321}{30b}{00} has too many skills. Please choose a skill to forget.
+
+{321}{30b}{00} forgets {30b}T, and learns {30b}z!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sorted alphabetically!
+Sorted by type!
+Sorted by weapon type!
+{30b}{00}の　Expが{315}つぎのレベルまで　あと1　になった!
+
+
+
+メタルチケットを　1まい　使い{315}このまま　メタルエリアへ　行きます。{315}よろしいですか?
+{30f}は{315}メタルチケットを　使った!
+ここでは　メタルチケットが　使えないようだ。{315}べつの場所で　使ってみよう!
+Yes
+No
+Start
+Cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

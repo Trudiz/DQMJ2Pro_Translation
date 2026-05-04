@@ -1,0 +1,151 @@
+
+
+{321}{30f}'s team flee!
+{321}{30f}'s team are wiped out!
+
+But the enemy block the team's path!
+The enemy are taken by surprise!
+The enemy launch a surprise attack!
+This looks like a good time to scout!{306}
+{321}{328}{306}
+And the result is{311}H{00}.{311}H{00}.{311}H{00}.{306}
+{321}{30f}'s team wins!{306}
+{321}{30f}'s team loses!{306}
+It's a draw!{306}
+The opponent forfeits the battle!{306}
+{321}{30f} forfeits the battle!{306}
+Both teams forfeit, so it's a draw!{306}
+But substitute support arrives!{306}
+The missing lynx wanders off.{306}
+But {323} can't cast spells!{306}
+It seems a giant monster is nearby{311}H{00}.{311}H{00}.{311}H{00}.{306}
+The enemy flee!{306}
+{322} gold coins drop to the ground...{306}
+A gigantic monster attacks!{306}
+The gigantic monster wanders off.{306}
+The enemy are flustered!{306}
+Everybody gets psyched up!{306}
+The enemy are annihilated!{306}
+The gigantic monster attacks!{306}
+Everybody cowers in fear!{306}
+Everybody is confused!{306}
+{321}{30f}'s team pray...{306}
+An enemy joins {30f}'s team!{306}
+The gigantic monster wanders off.{306}
+{321}{30b}{00} has disappeared.{306}
+The gigantic monster closes in!{306}
+Insufficient MP!{306}
+But {323} is banned from dancing!{306}
+But {323}'s mouth is shut tight!{306}
+But {323} is abiliterated!{306}
+But {323}'s blade is blunted!{306}
+Steals {328}!
+Steals {322} gold coins!{306}
+But nothing happens!{306}
+Attack{306}
+Defence{306}
+Agility{306}
+Wisdom{306}
+{322}のスライムバーン{306}
+{322}のドラゴンバーン{306}
+{322}のナチュラルバーン{306}
+{322}のビーストバーン{306}
+{322}のマテリアルバーン{306}
+{322}のデビルバーン{306}
+{322}のゾンビバーン{306}
+{322}のワンダーバーン{306}
+なにもしない{306}
+Fight
+Orders
+Tactics
+Scout
+Items
+Flee
+
+You've got a full complement of monsters, so you can't scout any more.
+Switch
+Forfeit
+Turns Remaining: {322}
+Time Remaining: {324}
+Waiting for opponent...
+{321}{323} can't cast spells!
+Turn {322}
+第 {324} 戦
+{321}{30f} prepares to scout!{306}
+A talented scouting!{306}
+
+Scouting successful!{306}
+Failed to scout!{306}
+
+{323} weighs things up.{306}
+{323} takes offence!{306}
+
+
+{321}{30b}{00} obtains{315}{322} skill points!
+{321}{30b}{00}'s level{315}has reached the maximum.
+Obtained {328}!
+Forfeit the current battle.
+Return to the current battle.
+このモンスターは　とくべつなので{315}スカウトすることが　できない!
+このモンスターは　とくべつなので{315}スカウトすることが　できない!
+
+
+
+
+
+
+
+
+
+
+
+
+メッセージ　みたいおう
+
+{323}'s attack restored!
+{323}'s defence restored!
+{323}'s agility restored!
+{323}'s wisdom restored!
+The Insulatle has worn off!
+The poison has worn off!
+{323} is not offended!
+{323} calms down a bit!
+The paralysis has worn off!
+ねむり効果が　きれた!
+こんらん効果が　きれた!
+The Tongue Lashing has worn off!
+The dancing effects have worn off!
+{323}'s shock fades!
+{323}'s shock fades!
+The Fizzle effect wears off!
+The Ban Dance effect has worn off!
+The Gobstop effect wears off!
+{323}'s accuracy restored!
+{323}'s accuracy restored!
+{323}'s accuracy restored!
+Normal resistance is restored!
+Normal resistance is restored!
+The Critical Miss effect has worn off!
+The Bounce effect has worn off!
+The Deep Breath effect has worn off!
+The Brake Wind effect has worn off!
+The Mist Me effect has worn off!
+Normal resistance is restored!
+The Reheal effect has worn off!
+The Artful Dodger effect has worn off!
+The Clang effect has worn off!
+The Counter effect has worn off!
+{323} is active again!
+The Amor Seco Rain has worn off!
+The Song of Salvation has worn off!
+The Blowback effect has worn off!
+The effect has worn off!
+The Prezing effect has worn off!
+The Abiliterator effect has worn off!
+The Blade Blunter effect has worn off!
+The Aha effect has worn off!
+The Selflessness effect has worn off!
+The Tacticlamp effect has worn off!
+{323} is resurrected!
+The Lingering Malhaze has worn off!
+The Unnatural Order has worn off!
